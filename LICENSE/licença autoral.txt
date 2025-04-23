@@ -1,0 +1,10 @@
+Copyright (c) 2025 CH Monstro
+
+Todos os direitos reservados.
+
+Este software, intitulado "Spray Delivery", é de propriedade exclusiva do autor.
+
+É proibido copiar, modificar, distribuir, ou usar qualquer parte deste código-fonte 
+sem autorização expressa e por escrito do autor.
+
+O uso não autorizado deste software poderá resultar em sanções civis e criminais.
